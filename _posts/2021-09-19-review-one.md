@@ -3,7 +3,8 @@
 Project Director: The London School of Economics and Political Science  
 Project URL: [https://booth.lse.ac.uk/ ](https://booth.lse.ac.uk/)**    
 
-![Front Page](https://lsix642.github.io/Lizzie-S./images/CBmainpage.jpg)   
+![Front Page](https://lsix642.github.io/Lizzie-S./images/CBmainpage.jpg)  
+
 ##### Summary  
 _Charles Booth’s London: Poverty maps and police notebooks_ is a digital humanities project that consists of Charles Booth’s Inquiry into Life and Labour in London research from the late 1800s and early 1900s. The purpose of this project is to allow users an effortless way to explore poverty in London during this period. The project is a compilation of Charles Booth’s poverty map and his many notebooks on policing, the Stepney Union, the Jewish population, poverty, industry life, and religion in London. Booth’s survey is the only one, conducted during this time, that has both the surviving original notes and data.  
 Through this research, we can further understand the development of the methodology and philosophy of Social Investigation in the United Kingdom. The user can then begin to explore and develop their own understanding of poverty during this period. By looking at society’s interpretation of poverty over time, we can decipher the changes that have occurred and begin to recognize the societal fault that it is.  
@@ -13,4 +14,5 @@ The project was able to flourish by using many open projects and services. Of th
 _Charles Booth’s London: Poverty maps and police notebooks_ and its creator did a comprehensive job at compiling all of the surviving notes and data and making it accessible on the internet with interactive features that bring you through the notebooks and map. By this project, a user can explore Booth’s poverty map and cross-examine it with a map of modern-day London. Additionally, the user can explore Booth’s original notebooks, as users can flip through the pages.  
 ###### Maps
 ![Maps](https://lsix642.github.io/Lizzie-S./images/CBmaps.jpg)  
+
 This project brings historical research into the modern day with the ability to transfer between the Charles Booth Poverty map and modern-day London. Additionally, the sliding bar at the bottom of the map allows the user to view both the the maps simultaneously. While this feature is very interesting and allows the user to see the past and present combined, the coloring of the present-day map takes away from the colors that Booth laid out in his legend. Subsequently, having the ability to efficiently zoom in and see every small detail of Booth’s maps makes the project itself more accessible. Additionally, the project creators thoughtfully put a search bar at the top of the map that allowed users to search for specific subjects they are interested in. With that said, most search results only bring the user to a place on the map and not a notebook.
