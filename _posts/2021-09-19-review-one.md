@@ -24,3 +24,7 @@ The notebooks bring the user through a large array of materials. Most, if not al
 ![Highlights](https://lsix642.github.io/Lizzie-S./images/CBhighlights.jpg)  
 
 On a separate tab, the project holds highlights on three common themes that developed throughout the notebooks. Of these themes are, Drink and Drugs, Migrant Communities, and Prostitution. The tab is concise and well set up so the user can explore an overview of the subjects and find quotes that, when clicked on, can bring you to the respective page in the notebooks.  
+##### Conclusion  
+In all, this project is extremely informative and brings its users through what life in London during the late-1800s and early 1900s was like. The project directors did an excellent job making the project accessible to many and should be commended for acknowledging and working to fix the current accessibility issues.  
+##### Credit  
+The project is led and funded by the LSE (The London School of Economics and Political Science) Digital Library and copyrighted in 2016. 
