@@ -12,3 +12,4 @@ The project was able to flourish by using many open projects and services. Of th
 ##### Findings  
 _Charles Booth’s London: Poverty maps and police notebooks_ and its creator did a comprehensive job at compiling all of the surviving notes and data and making it accessible on the internet with interactive features that bring you through the notebooks and map. By this project, a user can explore Booth’s poverty map and cross-examine it with a map of modern-day London. Additionally, the user can explore Booth’s original notebooks, as users can flip through the pages.  
 ###### Maps
+![Map no dots](https://lsix642.github.io/Lizzie-S./images/mapsnodots.jpg) ![Map with dots](https://lsix642.github.io/Lizzie-S./images/mapsanddots.jpg)  
