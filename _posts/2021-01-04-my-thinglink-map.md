@@ -1,8 +1,9 @@
-<iframe width="960" height="729.2193308550186" data-original-width="1614" data-original-height="1226" src="https://www.thinglink.com/card/1496683513179537409" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
 ### Introduction  
 I created an interactive map of CNU using the ThingLink website. This map brings the user through my favorite memories at CNU over the three years I’ve been here. As I skipped freshman year from high school credits, the map reviews four core memories from each year I have spent at CNU. I decided to focus on these four core memories as they are something I hold close to my heart and something I hope others would see and find exciting.  
 
 The map tells the story of how I have grown over the years, from some of my silly mistakes in my first year to a person who is surrounded by support and love in my last year.  
+
+<iframe width="960" height="729.2193308550186" data-original-width="1614" data-original-height="1226" src="https://www.thinglink.com/card/1496683513179537409" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>  
 
 ### Developing My Map  
 While reviewing this assignment, I went through many possible storylines. During the brainstorm we had in class I was convinced that my best way to go was to make a map of a week in my life as a CNU senior. Shortly after, I realized that the story was boring and not my best avenue. After much deliberation, I decided to go with four key memories from each year I have spent at CNU.  
