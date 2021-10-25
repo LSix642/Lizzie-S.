@@ -25,3 +25,4 @@ The map allows the user to explore replicas of the maps the HOLC created by clic
 The map has shaded areas, green, blue, yellow, and red. These are helpful in deciphering what the grade of the neighborhood is, but the key only uses one or two words to describe each color. With that said, it would be hard to describe these colors as they are based on grades that vary widely. When you click on one of the dots it will zoom you into a small map of a city. From there the user can explore each section of the neighborhood separately and see the description of the segment selected.  
 
 ![Maps](https://lsix642.github.io/Lizzie-S./images/IMmapdescription.png)  
+
