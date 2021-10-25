@@ -16,3 +16,4 @@ There were hundreds of individuals that contributed to this project. The project
 ##### Findings  
 Mapping Inequality: Redlining in New Deal America does an excellent job of combing the history of redlining and technology in an easily digestible and navigatable way.   
 ![Maps](https://lsix642.github.io/Lizzie-S./images/IM3maps.png)  
+
