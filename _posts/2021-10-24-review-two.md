@@ -28,7 +28,7 @@ The map has shaded areas, green, blue, yellow, and red. These are helpful in dec
 
 The project also consists of an introduction section that brings the user through the history of the HOLC and the repercussions of their actions. The section is quite lengthy with little to no pictures and some of the paragraphs are very long. This layout could result in the reader losing attention and just skimming the important materials. On the other hand, the information is critical to understanding the maps and why the HOLC project held such importance in prolonging segregation. If this section had more pictures and the paragraphs were shorter, the user would be less likely to lose interest.
 
-![Data and Downloads](https://lsix642.github.io/Lizzie-S./images/IMdownload.png)  
+![Data and Downloads](https://lsix642.github.io/Lizzie-S./images/IMdownload.png) 
 
 Additionally, there is a downloads and data section next to the introduction. Under this tab, the user has the opportunity to explore the project through different programs. Moreover, the user can use the search bar to search by state and city for the maps available and, if applicable, the area description images. This is an excellent feature as it allows the user to see the city they want without having to guess and pick on each dot until you find the city you are looking for.  
 Finally, there is an about section that brings the user through a comprehensive overview of everyone involved in making the project and their roles. Although this section does not discuss the technology used, the user is able to fully understand every step that went into the project.  
