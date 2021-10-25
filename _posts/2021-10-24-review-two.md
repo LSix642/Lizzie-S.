@@ -20,9 +20,17 @@ Mapping Inequality: Redlining in New Deal America does an excellent job of combi
 
 The map allows the user to explore replicas of the maps the HOLC created by clicking on one of the colored dots that represent different cities across the country. From there the user can zoom into specific neighborhoods and click on a neighborhood that they would like to view. When the user clicks on a specific neighborhood, a description of the grade shows up. Under these descriptions, the user can choose to click on a scan of the original documentation of the area or a shortened or full description. By allowing the user to choose the information they would like to receive and how they would like to receive it, the project directors allowed for a more interactive experience for their users. Additionally, the neighborhood maps are able to be viewed in three separate ways, a full map, a graded map, or a polygon map. The full map feature is hard to read as the maps lay over each other and parts of the maps are missing because of the overlapping. With that said, users are able to easily combat this issue by using the polygon or graded map option. 
 
-![Maps](https://lsix642.github.io/Lizzie-S./images/IMoverlapping.png)  
+![Maps overlapping](https://lsix642.github.io/Lizzie-S./images/IMoverlapping.png)  
 
 The map has shaded areas, green, blue, yellow, and red. These are helpful in deciphering what the grade of the neighborhood is, but the key only uses one or two words to describe each color. With that said, it would be hard to describe these colors as they are based on grades that vary widely. When you click on one of the dots it will zoom you into a small map of a city. From there the user can explore each section of the neighborhood separately and see the description of the segment selected.  
 
-![Maps](https://lsix642.github.io/Lizzie-S./images/IMmapdescription.png)  
+![Map and description](https://lsix642.github.io/Lizzie-S./images/IMmapdescription.png)  
 
+The project also consists of an introduction section that brings the user through the history of the HOLC and the repercussions of their actions. The section is quite lengthy with little to no pictures and some of the paragraphs are very long. This layout could result in the reader losing attention and just skimming the important materials. On the other hand, the information is critical to understanding the maps and why the HOLC project held such importance in prolonging segregation. If this section had more pictures and the paragraphs were shorter, the user would be less likely to lose interest.
+
+![Data and Downloads](https://lsix642.github.io/Lizzie-S./images/IMdownload.png)  
+
+Additionally, there is a downloads and data section next to the introduction. Under this tab, the user has the opportunity to explore the project through different programs. Moreover, the user can use the search bar to search by state and city for the maps available and, if applicable, the area description images. This is an excellent feature as it allows the user to see the city they want without having to guess and pick on each dot until you find the city you are looking for.  
+Finally, there is an about section that brings the user through a comprehensive overview of everyone involved in making the project and their roles. Although this section does not discuss the technology used, the user is able to fully understand every step that went into the project.  
+##### Conclusion  
+Overall, this project is very well put together, with just a few issues here and there. The project not only informs the user of the HOLC project from 1935-1940, but it also allows the user to explore and learn more about this history through an interactive and comprehensive map.
