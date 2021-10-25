@@ -15,3 +15,4 @@ The project has four main sections, the Map, Introduction, Downloads and Data, a
 There were hundreds of individuals that contributed to this project. The project was developed by three teams at four universities (The University of Richmond, Virginia Tech, The University of Maryland, and Duke University). Additionally, the project pulled in highly valued researchers, authors, and acclaimed professors from across the country. The project’s funding came from the Andrew W. Mellon Foundation, The Virginia Tech College of Liberal Arts and Human Sciences, and MapBox provided base tiles. The project is licensed under Creative Commons Attribution-NonCommerical-ShareAlike 4.0 International License.  
 ##### Findings  
 Mapping Inequality: Redlining in New Deal America does an excellent job of combing the history of redlining and technology in an easily digestible and navigatable way.   
+![Maps](https://lsix642.github.io/Lizzie-S./images/IM3maps.png)  
