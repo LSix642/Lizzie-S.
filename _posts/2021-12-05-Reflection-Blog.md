@@ -10,3 +10,6 @@ From the first class, I could tell that I was going to really enjoy the content 
 ### Readings  
 In the beginning, I really enjoyed the readings. They allowed me to look at the digital humanities from a much larger lens than I could have ever imagined. During the first couple of weeks, the reading that really caught my attention was the Nielsen Norman Group Eyetracking. I was so intrigued by the patterns that we all make when reading and what I was the most drawn to when reading articles. In past classes, I had felt like I was reading different variants of the same information. This course was nothing like that. Each reading brought up something new and exciting about the Digital Humanities and it kept me on the edge of my seat.  
 Truthfully, as the semester progressed, the readings got harder to complete. There was no real balance in the number of readings from day to day. Some days there were no readings and other days there could be up to 5 readings expected to be done. I wish that some of the readings were spread out and into the grant writing time to make it more manageable and easier to tweet.  
+
+### Assignments  
+##### Twitter  
