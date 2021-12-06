@@ -21,6 +21,7 @@ My favorite blog assignment was the Thinglink Map. I did my map based on four of
 
 <iframe width="960" height="729.2193308550186" data-original-width="1614" data-original-height="1226" src="https://www.thinglink.com/card/1496683513179537409" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
 
+
 ##### Grant Proposal
 Writing the grant proposal was probably the most challenging part of the course. I had never even read a grant proposal before, let alone tried to construct my own from scratch. I was very appreciative of all of the peer reviews that we had in class. The schedule of doing a peer review almost weekly kept me from procrastinating and extinguished fears of completing the whole project incorrectly.  
 Having a partner to complete the proposal with was more than helpful. We would meet weekly to write whatever section needed to be peer-reviewed next. In past group projects, we would just split up the work and combine all of the sections together. My partner and I took a different approach, where we wrote each sentence together. It was very interesting to see both of our writing styles combined.  
